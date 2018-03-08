@@ -1,5 +1,4 @@
-# <i>The Host with the most</i>
-# Project_Airbnb
+# Project: Airbnb - <i>The Host with the most</i>
 
 ## Motivation
 
