@@ -1,6 +1,9 @@
 # Project: Airbnb - <i>The Host with the most</i>
 
+<p align='center'>
 <img src='wordcloud_boston.png'>
+</p>
+
 ## Motivation
 
 The goal of this project is to analyze the importance of all of these factors using the InsideAirbnb dataset. The data includes vital statistics on the listings like location, description, size, price, amenities, and reviews. 
